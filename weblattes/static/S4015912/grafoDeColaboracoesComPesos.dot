@@ -1,0 +1,5 @@
+strict graph grafo2 {
+	graph [bb="0,0,128,18", id=grafo2, overlap=False];
+	node [label="\N", fontsize=8, shape=rectangle, style=filled];
+	0 [label="Ricardo Giuliani Martini [0]", URL="http://lattes.cnpq.br/8710772034085679", color="#000099", fontcolor="#FFFFFF", height="0.25", pos="64,9", width="1.7778"];
+}

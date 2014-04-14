@@ -1,0 +1,223 @@
+
+
+TY  - JOUR
+AU  - MOZZAQUATRO, B. A. ; AZEVEDO, R. P. ; NUNES, R. C. ; KOZAKEVICIUS, A. J. ; CAPPO, C. ; SCHAERER, C.
+TI  - Anomaly-based Techniques for Web Attacks Detection
+JO  - Journal of Applied Computing Research
+VL  - 1
+IS  - 
+SP  - 111
+EP  - 120
+PY  - 2012
+L2  - http://dx.doi.org/10.4013/jacr.2011.12.06
+ER  - 
+
+TY  - JOUR
+AU  - FREITAS, Leandro O. ; MOZZAQUATRO, B. A. ; PEREIRA, R. T. ; AZEVEDO, R. P. ; KURTZ, G. C. ; MARTINI, R. G. ; LIBRELOTTO, Giovani R.
+TI  - Uma modelagem ontológica de hospitais pervasivos aplicada ao Ontohealth
+JO  - Revista do CCEI
+VL  - 15
+IS  - 
+SP  - 277
+EP  - 294
+PY  - 2011
+L2  - 
+ER  - 
+
+TY  - BOOK
+AU  - FREITAS, L. ; MOZZAQUATRO, B. A. ; LIBRELOTTO, G. R.
+TI  - OntoHealth: Uma Arquitetura de Sistemas para Ambientes Homecare Pervasivos
+IS  - 1
+PY  - 2013
+VL  - 1. 145p 
+SP  - 
+EP  - 
+ER  - 
+
+TY  - BOOK
+AU  - MOZZAQUATRO, B. A. ; TURCHETTI, R. C.
+TI  - SETolF: Um Ambiente de Programação com Técnicas de Escalonamento de Tarefas Distribuído
+IS  - 1
+PY  - 2013
+VL  - 1. 82p 
+SP  - 
+EP  - 
+ER  - 
+
+TY  - CHAP
+AU  - FREITAS, Leandro O. ; PEREIRA, R. T. ; PEREIRA, H. ; MARTINI, R. G. ; MOZZAQUATRO, B. A. ; KASPER, J. ; LIBRELOTTO, G. R.
+T1  - Ontological Representation and an Architecture for Homecare Pervasive Systems
+TI  - Ricardo Martinho; Rui Rijo; Maria Manuela Cruz-Cunha; João Varajão. (Org.). Information Systems and Technologies for Enhancing Health and Social Care. 1ed
+IS  - 
+PB  - IGI Global
+PY  - 2013
+VL  - 
+SP  - 215
+EP  - 234
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, C. C. ; MOZZAQUATRO, B. A. ; STEFANELLO, A. L. ; SARTURI, T. R. ; SULZBACH, M.
+T1  - Desvendando RingPaxos: Um protocolo para alta taxa de transferência de dados e difusão atômica em sistemas distribuídos
+TI  - Computer on The Beach
+VL  - 4
+SP  - 
+EP  - 
+PY  - 2014
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CAPPO, C. ; MOZZAQUATRO, B. A. ; NUNES, R. C. ; KOZAKEVICIUS, A. J. ; SCHAERER, C.
+T1  - O Uso da Transformada de Haar na Detecção de Anomalias no Tráfego Web
+TI  - XIII Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais
+VL  - 1
+SP  - 1
+EP  - 14
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MOZZAQUATRO, B. A. ; MACHADO, C. C. ; LUCCA, M. R. B.
+T1  - COFFEE: Controlador OpenFlow de Fluxo para Escoamento Eﬁciente de Streaming de Vídeo
+TI  - Simpósio em Informática da UNIFRA - SIRC
+VL  - 
+SP  - 20
+EP  - 25
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CAPPO, C. ; SCHAERER, C. ; KOZAKEVICIUS, A. J. ; NUNES, R. C. ; MOZZAQUATRO, B. A.
+T1  - Comparison of Different Threshold Values For a Wavelet Designed Attack Sensor
+TI  - Congresso Nacional de Matemática Aplicada e Computacional
+VL  - 1
+SP  - 1
+EP  - 7
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - De Azevedo, Renato Preigschadt ; MOZZAQUATRO, BRUNO ; KOZAKEVICIUS, ALICE ; NUNES, RAUL CERETTA ; Cappo, Cristian ; Schaerer, Christian
+T1  - DoS attack detection using a two dimensional wavelet transform
+TI  - 2012 XXXVIII Conferencia Latinoamericana En Informatica (CLEI)
+VL  - 1
+SP  - 
+EP  - 
+PY  - 2012
+L2  - http://dx.doi.org/10.1109/CLEI.2012.6427250
+ER  - 
+
+TY  - CONF
+AU  - FREITAS, L. ; LIBRELOTTO, G. R. ; PEREIRA, H. ; KASPER, J. ; MARTINI, R. G. ; MOZZAQUATRO, B. A. ; PEREIRA, R. T.
+T1  - Applying Pervasive Computing in an Architecture for Homecare Environments
+TI  - IEEE 9th International Conference on Ubiquitous Computing and Intelligence/IEEE 9th International Conference on Autonomic and Trusted Computing
+VL  - 
+SP  - 
+EP  - 
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - FREITAS, L. ; PEREIRA, R. T. ; PEREIRA, H. ; MARTINI, R. G. ; MOZZAQUATRO, BRUNO ; KASPER, J. ; LIBRELOTTO, G. R.
+T1  - A Methodology for an Architecture of Pervasive Systems to Homecare Environments
+TI  - 4th Conference of ENTERprise Information Systems aligning technology
+VL  - 5
+SP  - 820
+EP  - 829
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MARTINI, RICARDO GIULIANI ; LIBRELOTTO, GIOVANI RUBERT ; De Azevedo, Renato Preigschadt ; FIORIN, ANDRE ; KASPER, JEFERSON ; Mozzaquatro, Bruno Augusti ; PEREIRA, RAFAEL
+T1  - An approach to automatic customization of user interfaces for mobile devices in pervasive environments
+TI  - 2012 XXXVIII Conferencia Latinoamericana En Informatica (CLEI)
+VL  - 1
+SP  - 1
+EP  - 7
+PY  - 2012
+L2  - http://dx.doi.org/10.1109/CLEI.2012.6427255
+ER  - 
+
+TY  - CONF
+AU  - MOZZAQUATRO, B. A. ; GUBIANI, J. S. ; PEREIRA, H. ; CARLI, D. M. ; CORREA, B. B. ; POSSATTI, A. ; COLUSSO, G.
+T1  - Comparativo entre Serviços usando a API Geolocation integrado ao HTML5
+TI  - Encontro Anual de Tecnologia da Informação (EATI)
+VL  - 
+SP  - 1
+EP  - 8
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LIBRELOTTO, G. R. ; FREITAS, L. ; FIORIN, A ; MOZZAQUATRO, B. A. ; PASETTO, L. ; MARTINI, R. G. ; AZEVEDO, R. P. ; PEREIRA, R. T.
+T1  - OntoHealth: A System to Process Ontologies Applied to Health Pervasive Environment
+TI  - 4th International Conference on Ubi-media Computing (U-Media 2011)
+VL  - 1
+SP  - 59
+EP  - 64
+PY  - 2011
+L2  - http://dx.doi.org/10.1109/U-MEDIA.2011.51
+ER  - 
+
+TY  - CONF
+AU  - MOZZAQUATRO, B. A. ; AZEVEDO, R. P. ; NUNES, R. C. ; KOZAKEVICIUS, A. J. ; CAPPO, C. ; SCHAERER, C.
+T1  - Detecção de Ataques Web usando Técnicas de Detecção de Anomalias
+TI  - Escola Regional de Redes de Computadores
+VL  - 9
+SP  - 101
+EP  - 104
+PY  - 2011
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACEDO, R. T. ; MOZZAQUATRO, B. A. ; BIAZUS, L. ; NUNES, R. C.
+T1  - Arquitetura de Segurança para Mecanismos de Controle de Acesso Baseados em Serviços Web
+TI  - Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - COLOMÉ, M. L. ; LUCCA, M. R. B. ; MOZZAQUATRO, B. A.
+T1  - Minimizando Riscos Relacionados à Segurança de Web Services
+TI  - Jornada Acadêmica Integrada da Universidade Federal de Santa Maria, 2012, Santa Maria. Anais 27ª JAI
+VL  - 
+SP  - 
+EP  - 
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AZEVEDO, R. P. ; MOZZAQUATRO, B. A. ; CAPPO, C. ; NUNES, R. C. ; KOZAKEVICIUS, A. J.
+T1  - A Bidimensional Wavelet Transform based Algorithm for DoS Attack Detection
+TI  - Latin-American Symposium on Dependable Computing, 2011, São José dos Campos. LADC - Latin-American Symposium on Dependable Computing
+VL  - 1
+SP  - 1
+EP  - 2
+PY  - 2011
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MOZZAQUATRO, B. A. ; AZEVEDO, R. P. ; NUNES, R. C. ; PEREIRA, R. T. ; LIBRELOTTO, G. R. ; LIMA, P. R. B. D.
+T1  - SGPCA - A Parameterized System to Manage Access Control Policies in XACML
+TI  - Conference on Enterprise Information Systems, 2010, Viana do Castelo. Proceedings of the CENTERIS 2010. Viana do Castelo: CENTERIS
+VL  - 8
+IS  - 
+SP  - 725
+EP  - 726
+PY  - 2010
+L2  - 
+ER  - 

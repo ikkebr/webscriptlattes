@@ -1,0 +1,5 @@
+strict graph grafo2 {
+	graph [bb="0,0,124,18", id=grafo2, overlap=False];
+	node [label="\N", fontsize=8, shape=rectangle, style=filled];
+	0 [label="Clayton da Silva Alves [0]", URL="http://lattes.cnpq.br/4615371772941322", color="#000099", fontcolor="#FFFFFF", height="0.25", pos="62,9", width="1.7222"];
+}

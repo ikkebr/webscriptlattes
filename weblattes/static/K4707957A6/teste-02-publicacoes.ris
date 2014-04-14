@@ -1,0 +1,411 @@
+
+
+TY  - JOUR
+AU  - Martins, M. ; VIZZOTTO, J. K. ; LIBRELOTTO, G. R.
+TI  - Simulando o Modelo ORC-OR através de autômatos celulares quânticos
+JO  - Revista Brasileira de Computação Aplicada
+VL  - 3
+IS  - 
+SP  - 74
+EP  - 81
+PY  - 2011
+L2  - http://dx.doi.org/10.5335
+ER  - 
+
+TY  - JOUR
+AU  - VIZZOTTO, J. K. ; Du Bois, André Rauber
+TI  - Modelling Parallel Quantum Computing Using Transactional Memory
+JO  - Electronic Notes in Theoretical Computer Science
+VL  - 270
+IS  - 
+SP  - 183
+EP  - 190
+PY  - 2011
+L2  - http://dx.doi.org/10.1016/j.entcs.2011.01.017
+ER  - 
+
+TY  - JOUR
+AU  - VIZZOTTO, J. K. ; COSTA, A. C. R. ; SABRY, A.
+TI  - Quantum Arrows in Haskell
+JO  - Electronic Notes in Theoretical Computer Science
+VL  - -210
+IS  - 
+SP  - 139
+EP  - 152
+PY  - 2008
+L2  - http://dx.doi.org/10.1016/j.entcs.2008.04.023
+ER  - 
+
+TY  - JOUR
+AU  - ALTENKIRCH, T. ; GRATTAGE, J. ; VIZZOTTO, J. K. ; SABRY, A.
+TI  - An Algebra of Pure Quantum Programming
+JO  - Electronic Notes in Theoretical Computer Science, Chicago, Estados Unidos.
+VL  - 170
+IS  - 
+SP  - 23
+EP  - 47
+PY  - 2007
+L2  - http://dx.doi.org/10.1016/j.entcs.2006.12.010
+ER  - 
+
+TY  - JOUR
+AU  - REIS, T. A. ; BOUFLEUR, M. P. ; VELHO, H. F. C. ; VIZZOTTO, J. K. ; CHARAO, A. S.
+TI  - Automatizacão da criacão de mapas com Google Maps
+JO  - Disciplinarum Scientia. Série Ciências Naturais e Tecnológicas
+VL  - 7
+IS  - 
+SP  - 129
+EP  - 136
+PY  - 2006
+L2  - 
+ER  - 
+
+TY  - JOUR
+AU  - VIZZOTTO, J. K. ; ALTENKIRCH, T. ; SABRY, A.
+TI  - Structuring quantum effects: superoperators as arrows
+JO  - MSCS. Mathematical Structures in Computer Science
+VL  - 16
+IS  - 
+SP  - 453
+EP  - 
+PY  - 2006
+L2  - http://dx.doi.org/10.1017/S0960129506005287
+ER  - 
+
+TY  - CHAP
+AU  - Vizzotto, Juliana Kaizer ; Calegaro, Bruno Crestani ; Piveta, Eduardo Kessler
+T1  - A Double Effect λ-calculus for Quantum Computation. Lecture Notes in Computer Science. 1ed
+TI  - 
+IS  - 
+PB  - Springer Berlin Heidelberg
+PY  - 2013
+VL  - 
+SP  - 61
+EP  - 74
+ER  - 
+
+TY  - CHAP
+AU  - Souto, R.S. ; VELHO, H. F. C. ; F, F. Paes ; Stephany, S. ; NAVAUX, P. O. A. ; CHARAO, A. S. ; VIZZOTTO, J. K.
+T1  - Grid Computing for Multi-spectral Tomografic Reconstruction of Chlorophyll Concentration in Ocean Water
+TI  - COnstanda, M.E. Pérez.. (Org.). Integral Methods in Science and Engineering. Boston
+IS  - 
+PB  - Ed. Birkhäuser
+PY  - 2010
+VL  - 2
+SP  - 327
+EP  - 337
+ER  - 
+
+TY  - CONF
+AU  - CALEGARO, B. C. ; Vizzotto, Juliana Kaizer
+T1  - Quantum Monad using Java Closures
+TI  - Workshop Escola de Informática Teórica
+VL  - 
+SP  - 
+EP  - 
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; CALEGARO, B. C. ; PIVETA, E. K.
+T1  - A Double Effect λ-calculus for Quantum Computation
+TI  - Simpósio Brasileiro de Linguagens de Programação
+VL  - 
+SP  - 
+EP  - 
+PY  - 2013
+L2  - http://dx.doi.org/10.1007/978-3-642-40922-6_5
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K.
+T1  - Towards a Quantum Monadic Arrow Lambda-calculus
+TI  - 14th Brazilian Symposium on Formal Methods
+VL  - 
+SP  - 
+EP  - 
+PY  - 2011
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - Martins, M. ; VIZZOTTO, J. K. ; LIBRELOTTO, G. R.
+T1  - Simulando o modelo ORCH-OR através de autômatos celulares quânticos
+TI  - II Simpósio de Computação Aplicada - SCA
+VL  - 
+SP  - 
+EP  - 
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; CHARAO, A. S. ; Souto, R.S. ; VELHO, H. F. C.
+T1  - Aplicações de Grades Computacionais
+TI  - X Escola Regional de Alto Desempenho
+VL  - 
+SP  - 51
+EP  - 82
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; SABRY, A.
+T1  - Quantum Measurements from a Programming Point of View
+TI  - Workshop Escola de Computação e Informação Quântica
+VL  - 
+SP  - 
+EP  - 
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LIBRELOTTO, G. R. ; VIZZOTTO, J. K. ; AUGUSTIN, I.
+T1  - Um Compilador para a Linguagem Reativa Síncrona Distribuída
+TI  - Third Workshop on Languages and Tools for Parallel and Distributed Programming
+VL  - 
+SP  - 
+EP  - 
+PY  - 2009
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; DU BOIS, A. R. ; SABRY, A.
+T1  - The Arrow Calculus as a Quantum Programming Language
+TI  - Workshop on Logic
+VL  - 5514
+SP  - 379
+EP  - 393
+PY  - 2009
+L2  - http://dx.doi.org/10.1007/978-3-642-02261-6
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; LIBRELOTTO, G. R. ; SABRY, A.
+T1  - Reasoning about General Quantum Programs over Mixed States
+TI  - Brazilian Symposim on Formal Methods
+VL  - 5902
+SP  - 321
+EP  - 335
+PY  - 2009
+L2  - http://dx.doi.org/10.1007/978-3-642-10452-7_22
+ER  - 
+
+TY  - CONF
+AU  - DU BOIS, A. R. ; VIZZOTTO, J. K.
+T1  - Memórias transacionais e sua programação usando STM Haskell
+TI  - Simpósio Brasileiro de Linguagens de Programação
+VL  - 
+SP  - 
+EP  - 
+PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LIBRELOTTO, G. R. ; Martins, M. ; MACHADO, H. T. ; VIZZOTTO, J. K. ; Ramalho, J.C. ; HENRIQUES, P. R.
+T1  - Generating Semantic Networks to the PubMed
+TI  - XATA 2008: 6ª Conferência Nacional
+VL  - 6
+SP  - 94
+EP  - 103
+PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LIBRELOTTO, G. R. ; VIZZOTTO, J. K. ; AUGUSTIN, I. ; TOSCANI, S. S.
+T1  - A Semântica Formal da Linguagem RS
+TI  - Simpósio Brasileiro de Linguagens de Programação
+VL  - 
+SP  - 
+EP  - 
+PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; DU BOIS, A. R.
+T1  - Modelling Parallel Quantum Computing using Transactional Memory
+TI  - Joint Workshop on: Quantum Physics and Logic and Development of Computational Models
+VL  - 
+SP  - 166
+EP  - 173
+PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; COSTA, A. C. R. ; SABRY, A.
+T1  - Structuring General and Complete Quantum Computations in Haskell: The Arrows Approach
+TI  - XX Concurso de Teses e Dissertações
+VL  - 
+SP  - 
+EP  - 
+PY  - 2007
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; Martins, M. ; COSTA, A. C. R.
+T1  - Towards a Monadic Approach for MArgolus Parallel Quantum Celular Automaton
+TI  - First Workshop on Languages and Tools for Parallel and Distributed Programming
+VL  - 
+SP  - 
+EP  - 
+PY  - 2007
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; COSTA, A. C. R.
+T1  - Towards Quantum Haskell via Quantum Arrows
+TI  - Primeiro Workshop-Escola de Computação e Informação Quântica
+VL  - 1
+SP  - 
+EP  - 
+PY  - 2006
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; COSTA, A. C. R. ; SABRY, A.
+T1  - Quantum Arrows in Haskell
+TI  - 4th International Workshop on Quantum Programming Languages
+VL  - 
+SP  - 1
+EP  - 15
+PY  - 2006
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - ALTENKIRCH, T. ; GRATTAGE, J. ; VIZZOTTO, J. K. ; SABRY, A.
+T1  - An Algebra of Pure Quantum Programming Languages
+TI  - 3rd International Workshop on Quantum Programming Languages
+VL  - 
+SP  - 
+EP  - 
+PY  - 2005
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; COSTA, A. C. R.
+T1  - Concurrent Quantum Programming in Haskell
+TI  - VII Congresso Brasileiro de Redes Neurais
+VL  - 
+SP  - 
+EP  - 
+PY  - 2005
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; COSTA, A. C. R. ; SABRY, A.
+T1  - Modelling Quantum Effects in Haskell
+TI  - Semana Acadêmica PPGC/UFRGS
+VL  - 
+SP  - 
+EP  - 
+PY  - 2005
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MARTINI, Alfio Ricardo ; WOLTER, U. ; HAEUSLER, E. H. ; VIZZOTTO, J. K.
+T1  - Linking Logics for Multiparadigm Software Specification
+TI  - V World Multiconference on Systems
+VL  - 
+SP  - 
+EP  - 
+PY  - 2001
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; MARTINI, Alfio Ricardo ; COSTA, A. C. R.
+T1  - Reutilizando Provas através de Mapeamentos entre Lógicas
+TI  - IV Workshop de Métodos Formais
+VL  - 
+SP  - 101
+EP  - 106
+PY  - 2001
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - PASQUALIN, D. P. ; VIZZOTTO, J. K. ; LIBRELOTTO, G. R. ; DU BOIS, A. R.
+T1  - Linguagens de Programação para a Computação Pervasiva
+TI  - Escola Regional de Alto Desempenho -ERAD, 2010, Passo Fundo. Anais da Escola Regional de Alto Desempenho - ERAD
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; COSTA, A. C. R. ; DIMURO, G. P.
+T1  - Teoria dos Domínios e Computação Quântica
+TI  - XXVII CNMAC, 2004, Porto Alegre. Anais do XXVII Congresso Nacional de Matemática Aplicada e Computacional
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2004
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; COSTA, A. C. R. ; DIMURO, G. P.
+T1  - Uma Calculadora para Aritmética Real Recursiva
+TI  - Congresso Nacional de Matemática Aplicada e Computacional, 1999, Santos-SP. Proceedings do Congresso Nacional de Matemática Aplicada e Computacional
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 1999
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; COSTA, A. C. R. ; DIMURO, G. P.
+T1  - Avaliação Lazy e Mônadas para Entrada e Saída na Linguagem Haskell
+TI  - Salão de Iniciação Científica da UFRGS, 1999, Porto Alegre. Anais do Salão de Iniciação Científica da UFRGS
+VL  - 11
+IS  - 
+SP  - 
+EP  - 
+PY  - 1999
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; COSTA, A. C. R. ; DIMURO, G. P.
+T1  - Utilizando a Linguagem de Programação Funcional Haskell para Implementar a Função Semântica De um Numeral em uma Base Qualquer
+TI  - Congresso de Iniciação Científica e Tecnológica, 1999, Santa Maria. Anais do Congresso de Iniciação Científica e Tecnologica
+VL  - 14
+IS  - 
+SP  - 
+EP  - 
+PY  - 1999
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIZZOTTO, J. K. ; COSTA, A. C. R. ; DIMURO, G. P.
+T1  - Implementação de Uma Calculadora Explorando a Recursividade e a Computação Exata com Números Naturais
+TI  - VIII Congresso de Iniciação Científica - Prêmio Jovem Pesquisador, 1999, Pelotas. Anais do Congresso de Iniciação Científica
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 1999
+L2  - 
+ER  - 

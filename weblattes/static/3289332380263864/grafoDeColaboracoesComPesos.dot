@@ -1,0 +1,5 @@
+strict graph grafo2 {
+	graph [bb="0,0,134,18", id=grafo2, overlap=False];
+	node [label="\N", fontsize=8, shape=rectangle, style=filled];
+	0 [label="Daniel Michelon De Carli [0]", URL="http://lattes.cnpq.br/3289332380263864", color="#000099", fontcolor="#FFFFFF", height="0.25", pos="67,9", width="1.8611"];
+}
