@@ -17,8 +17,8 @@ def index(request):
       objeto.status = 1 #processando
       objeto.save()
       res = processar.delay(objeto.lid, objeto.categoria)
-
-    return redirect("status", lid=form.cleaned_data['lid'], categoria=form.cleaned_data['categoria'])
+    return redirect("http://site.ufsm.br/lattes/status/%s/%s/" % (form.cleaned_data['lid'], form.cleaned_data['categoria']))
+    #return redirect("status", lid=form.cleaned_data['lid'], categoria=form.cleaned_data['categoria'])
 
   return render(request, "index.html", {"form": form,})
 

@@ -1,5 +1,0 @@
-strict digraph grafo3 {
-	graph [bb="0,0,132,18", id=grafo3, overlap=False];
-	node [label="\N", fontsize=8, shape=rectangle, style=filled];
-	0 [label="Luciano Azevedo Cassol [0]", URL="http://lattes.cnpq.br/5819965447008031", color="#000099", fontcolor="#FFFFFF", height="0.25", pos="66,9", width="1.8333"];
-}

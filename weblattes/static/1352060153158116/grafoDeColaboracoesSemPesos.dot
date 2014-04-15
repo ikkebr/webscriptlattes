@@ -1,5 +1,0 @@
-strict graph grafo1 {
-	graph [bb="0,0,134,18", id=grafo1, overlap=False];
-	node [label="\N", fontsize=8, shape=rectangle, style=filled];
-	0 [label="Fernando Pires Barbosa [0]", URL="http://lattes.cnpq.br/1352060153158116", color="#000099", fontcolor="#FFFFFF", height="0.25", pos="67,9", width="1.8611"];
-}

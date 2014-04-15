@@ -91,8 +91,9 @@
 		<h1>Analisador de Lattes - WebScriptLattes</h1>
 		<p>Insira o n&uacute;mero do LATTES que você deseja calcular, depois escolha a área e clique em "Calcular".</p>
 		<p>Você será enviado a uma nova tela, onde podera acompanhar o andamento da análise do Currículo Lattes em função do Qualis na área selecionada. Esse processo pode levar alguns minutos.</p>
+<center><iframe width="560" height="315" src="//www.youtube.com/embed/FbtoufsM0Dw" frameborder="0" allowfullscreen></iframe></center>
 		<p><strong>Atenção!</strong> O sistema está operando de forma experimental. Se você encontrar um erro, por favor, encaminhe um e-mail para henrique@ufsm.br com o título: "Erro - WebScriptLattes"</p>
-		<form method="post" action="{% url 'index' %}">
+		<form method="post" action='{% url "index" %}'>
 			{% csrf_token %}
 			<table>
 			{{ form }}
@@ -177,6 +178,22 @@ font-size: 10pt;
 	color: red;
 }
 </style>	  
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26102952-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
   </body>
 </html>
 

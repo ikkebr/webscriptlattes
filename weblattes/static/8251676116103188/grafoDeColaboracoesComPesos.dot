@@ -1,5 +1,0 @@
-strict graph grafo2 {
-	graph [bb="0,0,146,18", id=grafo2, overlap=False];
-	node [label="\N", fontsize=8, shape=rectangle, style=filled];
-	0 [label="Andrea Schwertner Charao [0]", URL="http://lattes.cnpq.br/8251676116103188", color="#000099", fontcolor="#FFFFFF", height="0.25", pos="73,9", width="2.0278"];
-}

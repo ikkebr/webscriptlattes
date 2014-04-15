@@ -1,5 +1,6 @@
 from django.db import models
 from weblattes.settings import STATIC_URL
+from django.core.validators import validate_slug
 
 CATEGORIAS = (
 ('0','Adm, Contabeis e Turismo'),
@@ -55,7 +56,7 @@ CATEGORIAS = (
 )
 
 class CV(models.Model):
-  lid = models.CharField(max_length=30, verbose_name="ID Lattes")
+  lid = models.CharField(max_length=30, verbose_name="ID Lattes", validators=[validate_slug])
   categoria = models.CharField(max_length=2, choices=CATEGORIAS)
   status = models.SmallIntegerField()
 

@@ -1,5 +1,0 @@
-strict graph grafo1 {
-	graph [bb="0,0,146,18", id=grafo1, overlap=False];
-	node [label="\N", fontsize=8, shape=rectangle, style=filled];
-	0 [label="Bruno Augusti Mozzaquatro [0]", URL="http://lattes.cnpq.br/1445933787625363", color="#000099", fontcolor="#FFFFFF", height="0.25", pos="73,9", width="2.0278"];
-}

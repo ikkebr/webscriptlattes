@@ -38,7 +38,7 @@ class GeradorDePaginasWeb:
 
 	def __init__(self, grupo):
 		self.grupo = grupo
-		self.version = 'V8.08'
+		self.version = 'V0.1'
 		self.dir = self.grupo.obterParametro('global-diretorio_de_saida')
 		
 		if self.grupo.obterParametro('global-criar_paginas_jsp'):
@@ -759,8 +759,8 @@ class GeradorDePaginasWeb:
 
 		s+='\n<br>Data de processamento: '+data+'<br> \
         <div id="footer"> \
-        Este arquivo foi gerado automaticamente por <a href="http://scriptlattes.sourceforge.net/">scriptLattes '+self.version+'</a> \
-        (desenvolvido no <a href="http://cmcc.ufabc.edu.br/">CMCC-UFABC</a> e \
+        Este arquivo foi gerado automaticamente pelo <a href="https://github.com/ikkebr/webscriptlattes" target="_blank">WebScriptLattes</a> '+self.version+', modificado no CPD/UFSM, baseado no <a href="http://scriptlattes.sourceforge.net/">scriptLattes</a> \
+        (desenvolvido originalmente no <a href="http://cmcc.ufabc.edu.br/">CMCC-UFABC</a> e \
         no <a href="http://ccsl.ime.usp.br/">CCSL-IME/USP</a> por <a href="http://professor.ufabc.edu.br/~jesus.mena/">Jesús P. Mena-Chalco</a> e <a href="http://www.ime.usp.br/~cesar">Roberto M. Cesar-Jr</a>). \
         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos currículos Lattes. Caso note alguma falha, por favor, contacte o responsável por esta página: <a href="mailto:'+self.grupo.obterParametro('global-email_do_admin')+'">'+self.grupo.obterParametro('global-email_do_admin')+'</a> \
         </div> \

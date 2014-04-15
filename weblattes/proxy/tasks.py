@@ -9,9 +9,9 @@ import os
 def processar(lid, categoria):
   objeto = CV.objects.get(lid=lid, categoria=categoria)
   print '\n'*5
-  print "python /var/apps/lattes/scriptLattes.py /var/apps/lattes/exemplo/exemplo.config /var/apps/weblattes/static/%s%s %s /var/apps/lattes/exemplo/%s" % (lid, categoria, lid, categoria)
+  print "python /var/apps/lattes/scriptLattes.py /var/apps/lattes/exemplo/teste-02.config /var/apps/weblattes/static/%s%s %s /var/apps/lattes/exemplo/%s" % (lid, categoria, lid, categoria)
   print '\n'*5
-  erro = os.system("python /var/apps/lattes/scriptLattes.py /var/apps/lattes/exemplo/exemplo.config /var/apps/weblattes/static/%s%s %s /var/apps/lattes/exemplo/%s" % (lid, categoria, lid, categoria))
+  erro = os.system("python /var/apps/lattes/scriptLattes.py /var/apps/lattes/exemplo/teste-02.config /var/apps/weblattes/static/%s%s %s /var/apps/lattes/exemplo/%s" % (lid, categoria, lid, categoria))
 
   if erro:
     objeto.status = -1 #quebrou
